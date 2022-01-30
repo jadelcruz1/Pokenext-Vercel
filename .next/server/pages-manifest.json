@@ -3,6 +3,5 @@
   "/": "pages/index.js",
   "/pokemon/[pokemonId]": "pages/pokemon/[pokemonId].js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/_document": "pages/_document.js"
 }

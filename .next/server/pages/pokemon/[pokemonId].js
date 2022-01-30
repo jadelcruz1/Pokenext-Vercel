@@ -71,7 +71,7 @@ const getStaticPaths = async ()=>{
     });
     return {
         paths,
-        fallback: false
+        fallback: true
     };
 };
 const getStaticProps = async (context)=>{
