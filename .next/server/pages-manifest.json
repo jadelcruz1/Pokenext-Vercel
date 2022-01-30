@@ -1,6 +1,5 @@
 {
   "/_app": "pages/_app.js",
-  "/about": "pages/about.html",
   "/": "pages/index.js",
   "/pokemon/[pokemonId]": "pages/pokemon/[pokemonId].js",
   "/_error": "pages/_error.js",
